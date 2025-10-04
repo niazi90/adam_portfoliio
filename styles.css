@@ -616,15 +616,15 @@ margin-top: -17px;
         height: 31px;
   }
 
-     .servicesdescription {
+      .servicesdescription {
         color: white;
-        font-size: 20px;
+        font-size: 18px;
         height: 110px;
-        width: 231px;
+        width: 234px;
         line-height: 30px;
         justify-content: center;
         z-index: 1;
-        line-height: 27px;
+        line-height: 22px;
     }
 
   .showmore {
@@ -633,6 +633,13 @@ margin-top: -17px;
     margin-left: 4px;
     color: yellow;
   }
+  .servicesicon {
+    display: flex
+;
+    margin-top: 3px;
+    width: 320px;
+    height: 153px;
+}
   .rounded_circle {
     background-color:  rgb(52, 54, 65);
     width: 399px;
